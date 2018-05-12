@@ -1,0 +1,44 @@
+_repo: Talvi-iltain-tarinoita-4Nuoruuden-unelmia.-Vernan-ruusut._38598
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Jäämaa, Ilmari
+    aliases:
+    - Jaamaa, Ilmari
+    - Ilmari Jäämaa
+    gutenberg_agent_id: '39420'
+    url: http://www.gutenberg.org/2009/agents/39420
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Topelius, Zacharias
+    aliases:
+    - Topelius, Sakarias
+    - Topelius, Zakarias
+    - Topelius, Zachris
+    - Topelius, Zakris
+    birthdate: 1818
+    deathdate: 1898
+    gutenberg_agent_id: '6545'
+    url: http://www.gutenberg.org/2009/agents/6545
+    wikipedia:
+    - http://fi.wikipedia.org/wiki/Zacharias_Topelius
+    - http://en.wikipedia.org/wiki/Zachris_Topelius
+description: Translations of "Ungdomsdrömmar" and "Vernas rosor".
+gutenberg_issued: '2012-01-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38598'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Swedish fiction -- Translations into Finnish'
+title: 'Talvi-iltain tarinoita 4
+
+  Nuoruuden unelmia. Vernan ruusut.'
+url: http://www.gutenberg.org/ebooks/38598
